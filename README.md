@@ -47,5 +47,5 @@ public class testGlucoseReading {
 }
 ```
 ## Beta
-This is still a very early build. In particular, error handling is almost entirely missing
+This is still a very early build. In particular, error handling is almost entirely missing.
 Please be very careful in using this service. It is NOT a replacement for your Dexcom app.
