@@ -9,7 +9,7 @@ import java.util.Optional;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import pack.consts;
+import utils.consts;
 
 public class GlucoseReading {
     private Map<String, Object> json;  // Json is actually a map, preferring similar docs

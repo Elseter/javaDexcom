@@ -14,8 +14,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import pack.consts;
-
 public class testGlucoseReading {
     public static void main(String[] args) throws IOException {
 
